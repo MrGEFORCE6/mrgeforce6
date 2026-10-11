@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Mavi Gökyüzü Macera Banner'ı -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/50172983344486696.jpg" width="100%" alt="Sky Adventure Banner" />
+<!-- Yeni RPG Macera Banner'ı -->
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/45317539998182674.jpg" width="100%" alt="Adventure Banner" />
 
 <br/><br/>
 
@@ -19,13 +19,11 @@
 
 <table align="center" border="0" cellpadding="12" cellspacing="0" width="100%" style="background-color: #0D1117; border: 2px solid #38BDF8; border-radius: 12px;">
   <tr>
-    <!-- Sol: Portre (Altın Çerçeveli) -->
     <td width="25%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="120" height="120" style="border: 3px solid #F59E0B; border-radius: 10px;" alt="Character Portrait" />
       <br/>
       <span style="color: #F59E0B; font-weight: bold;">✦ LVL. 99 MAGE ✦</span>
     </td>
-    <!-- Orta: Durum Barları & İstatistikler -->
     <td width="45%" valign="middle">
       <b style="color: #38BDF8;">NAME:</b> <code>Mert [Silent Spellcaster]</code><br/>
       <b style="color: #4ADE80;">HP:</b> <code>[████████████████████] 100%</code><br/>
@@ -33,7 +31,6 @@
       <b style="color: #FACC15;">EXP:</b> <code>[████████████████░░░░] 94.200 / 100.000</code><br/>
       <sub><i>Next Level: Senior Architect</i></sub>
     </td>
-    <!-- Sağ: Kuşanılan Ekipmanlar -->
     <td width="30%" valign="middle">
       <b style="color: #C084FC;">⚔️ EQUIPPED GEAR:</b>
       <ul style="margin: 4px 0; padding-left: 18px;">
@@ -52,7 +49,6 @@
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <!-- Roxy Kartı -->
     <td width="33.3%" align="center" valign="top">
       <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #38BDF8; border-radius: 12px; text-align: center;">
         <tr>
@@ -66,7 +62,6 @@
         </tr>
       </table>
     </td>
-    <!-- Sylphiette Kartı -->
     <td width="33.3%" align="center" valign="top">
       <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #34D399; border-radius: 12px; text-align: center;">
         <tr>
@@ -80,7 +75,6 @@
         </tr>
       </table>
     </td>
-    <!-- Eris Kartı -->
     <td width="33.3%" align="center" valign="top">
       <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #F87171; border-radius: 12px; text-align: center;">
         <tr>
@@ -90,6 +84,63 @@
             <span style="color: #F87171;">⚔️ Kılıç Kralı</span><br/>
             <hr style="border: 0; border-top: 1px solid #1E293B;" />
             <sub><b>Parti Bonusu:</b><br/>+35% Kritik Hata Ayıklama</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 💎 Efsanevi Materyaller (Mythic Crafting Components)
+
+<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #38BDF8; border-radius: 8px; text-align: center;">
+        <tr>
+          <td>
+            <font size="5">🔷</font><br/>
+            <b style="color: #38BDF8;">React Kristali</b><br/>
+            <sub>[S-Rank Bileşen]</sub><br/>
+            <sub>Dinamik UI üretimi için saf enerji kristali.</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="25%" align="center">
+      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #A855F7; border-radius: 8px; text-align: center;">
+        <tr>
+          <td>
+            <font size="5">🔮</font><br/>
+            <b style="color: #C084FC;">Next.js Çekirdeği</b><br/>
+            <sub>[Kadim Kalıntı]</sub><br/>
+            <sub>SSR & Hızlı rota geçişleri sağlayan büyü motoru.</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="25%" align="center">
+      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #34D399; border-radius: 8px; text-align: center;">
+        <tr>
+          <td>
+            <font size="5">🧪</font><br/>
+            <b style="color: #34D399;">Python Esansı</b><br/>
+            <sub>[Simya İksiri]</sub><br/>
+            <sub>Karmaşık algoritmaları ve veri akışını çözer.</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td width="25%" align="center">
+      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #F59E0B; border-radius: 8px; text-align: center;">
+        <tr>
+          <td>
+            <font size="5">📜</font><br/>
+            <b style="color: #F59E0B;">Tailwind Rulosu</b><br/>
+            <sub>[Efsunlu Dokuma]</sub><br/>
+            <sub>Anında kusursuz arayüz stili kazandırır.</sub>
           </td>
         </tr>
       </table>
@@ -162,6 +213,26 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+### 🌌 Macera Galerisi
+
+<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" alt="Battle Eyes" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/1759287349211652.jpg" width="100%" alt="Cathedral" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/771100767466705175.jpg" width="100%" alt="Sunlit Forest" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ### 📊 Mana Akışı & İstatistikler
 
 <table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
@@ -177,21 +248,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🐱 Dinlenme Kampı (Campfire Companions)
+### 📜 Kadim Büyücü Yasaları (Mage's Creed)
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #0D1117; border-left: 4px solid #38BDF8; border-radius: 4px;">
   <tr>
-    <td width="33.3%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/151715081194595844.jpg" width="130" alt="Sunset Cat" /><br/>
-      <sub><b>Sunset Cat 🌅</b></sub>
-    </td>
-    <td width="33.3%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/indir.jpg" width="130" alt="Headset Cat" /><br/>
-      <sub><b>Pro Caster 🎙️</b></sub>
-    </td>
-    <td width="33.3%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Gamer%20cat.jpg" width="130" alt="Energy Cat" /><br/>
-      <sub><b>Monster Gamer ⚡</b></sub>
+    <td>
+      ✦ <b>Kural I:</b> <i>"Tek satır temiz ve okunabilir kod, yüz satır karmaşık büyüden daha tesirlidir."</i><br/>
+      ✦ <b>Kural II:</b> <i>"Hatalar (bug'lar) düşman değil; sabırla çözülen her hata tecrübe puanıdır."</i><br/>
+      ✦ <b>Kural III:</b> <i>"Zorlu zindanlar tek başına değil, sağlam bir mimari ve kararlılıkla fethedilir."</i>
     </td>
   </tr>
 </table>
@@ -225,6 +289,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=80&section=footer" width="100%" />
+<!-- Yumuşak Degrade Alt Çizgi -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35&height=65&section=footer" width="100%" />
 
 </div>
