@@ -1,228 +1,227 @@
+
 <div align="center">
 
-<!-- Yüksek Çözünürlüklü Yeni Macera Banner'ı -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/thumb-1920-1076888.png" width="100%" alt="Adventure Banner" />
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=540&lines=✦+Bir+Mage+Developer'ın+Büyü+Kitabı...;✦+Yeni+bir+dünyada+sıfırdan+yazılan+projeler...;✦+Sessiz+büyü+yapar+gibi+temiz+kodlama...;✦+Next.js+•+React+•+Python+•+Tailwind)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/thumb-1920-1076888.png" width="100%" alt="MrGEFORCE6 — Mage Developer" />
 
 <br/>
 
-> *"Tıpkı bin yıllık bir büyücü ya da yeni bir dünyada baştan başlayan biri gibi; en güçlü büyüler adım adım, sabırla yazılan temiz kod satırlarında saklıdır."*
+# ✦ MrGEFORCE6 ✦
+### The Mage Developer's Grimoire
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=600&lines=Web+%26+Software+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Python+%E2%80%A2+C%23+%E2%80%A2+SQL;Building+projects%2C+one+spell+at+a+time)](https://git.io/typing-svg)
+
+*“Her büyük macera tek bir satır kodla başlar.”*
+
+[GitHub](https://github.com/MrGEFORCE6) ·
+[Projelerim](https://github.com/MrGEFORCE6?tab=repositories) ·
+[İletişim](mailto:mertaliaycicek2@gmail.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-### 👥 Lonca Parti Kartları (Adventurer Trading Cards)
+## 📖 Büyücü Hakkında | About Me
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="130" height="130" alt="Roxy Migurdia" /><br/><br/>
-      <b>Roxy Migurdia</b><br/>
-      <span style="color: #38BDF8;">💧 Su & Buz Ustası</span><br/>
-      <sub><i>Parti Bonusu: +30% Mimari & Mantık</i></sub>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/25192079162389332.jpg" width="130" height="130" alt="Sylphiette" /><br/><br/>
-      <b>Sylphiette</b><br/>
-      <span style="color: #34D399;">🍃 Sessiz Büyücü</span><br/>
-      <sub><i>Parti Bonusu: +25% Odaklanma & Hız</i></sub>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Eris%20Greyrat.jpg" width="130" height="130" alt="Eris Greyrat" /><br/><br/>
-      <b>Eris Greyrat</b><br/>
-      <span style="color: #F87171;">⚔️ Kılıç Kralı</span><br/>
-      <sub><i>Parti Bonusu: +35% Kritik Hata Ayıklama</i></sub>
-    </td>
-  </tr>
+Merhaba, ben **Mert Ali Ayçiçek** — internetteki adımla **MrGEFORCE6**.
+
+Web geliştirme ve yazılım dünyasında kendi projelerini geliştiren, yeni teknolojiler öğrenen bir geliştiriciyim. Bu profil benim dijital büyü kitabım: öğrendiğim teknolojiler, geliştirdiğim projeler ve yazılım yolculuğum burada birikiyor.
+
+- 🧭 **Odak noktam:** Web geliştirme ve yazılım projeleri
+- 🪄 **Üzerinde çalıştığım proje:** Dersly
+- ⚙️ **Kullandığım araçlar:** VS Code, Git ve GitHub
+- 🌱 **Hedefim:** Daha kullanışlı, hızlı ve sürdürülebilir uygulamalar geliştirmek
+
+<details>
+<summary>📜 Geliştirici yemini</summary>
+
+Kod benim büyüm, hata benim öğretmenim, sabır ise en güçlü büyümün kaynağıdır.
+
+Her proje yeni bir görev, her çözülen hata yeni bir tecrübedir.
+
+</details>
+
+---
+
+## 🧙 Lonca Partim | The Adventurer Guild
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="120" alt="Roxy Migurdia" />
+<br/><br/>
+<strong>💧 Roxy Migurdia</strong>
+<br/>
+<sub>Su ve Buz Büyüsü</sub>
+<br/>
+<sub>Bilgi • Mantık • Mimari</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/25192079162389332.jpg" width="120" alt="Sylphiette" />
+<br/><br/>
+<strong>🍃 Sylphiette</strong>
+<br/>
+<sub>Rüzgâr Büyüsü</sub>
+<br/>
+<sub>Odak • Denge • Uyum</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Eris%20Greyrat.jpg" width="120" alt="Eris Greyrat" />
+<br/><br/>
+<strong>⚔️ Eris Greyrat</strong>
+<br/>
+<sub>Kılıç Ustalığı</sub>
+<br/>
+<sub>Kararlılık • Hata Ayıklama</sub>
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-### 💎 Efsanevi Materyaller & Simya Bileşenleri (Mythic Materials)
+## 🗺️ Aktif Görev | Featured Project
 
-<table align="center" border="0" cellpadding="12" cellspacing="0" width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <font size="6">🔷</font><br/>
-      <b style="color: #38BDF8;">React Kristali</b><br/>
-      <sub><b>[S-Rank Bileşen]</b></sub><br/>
-      <sub>Dinamik & reaktif UI üretimi için saf büyü kristali.</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <font size="6">🔮</font><br/>
-      <b style="color: #C084FC;">Next.js Çekirdeği</b><br/>
-      <sub><b>[Kadim Kalıntı]</b></sub><br/>
-      <sub>SSR ve ışık hızında rota geçişleri sağlayan büyü motoru.</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <font size="6">🧪</font><br/>
-      <b style="color: #34D399;">Python Esansı</b><br/>
-      <sub><b>[Simya İksiri]</b></sub><br/>
-      <sub>Karmaşık algoritmaları ve veri akışını çözen kadim iksir.</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <font size="6">📜</font><br/>
-      <b style="color: #F59E0B;">Tailwind Rulosu</b><br/>
-      <sub><b>[Efsunlu Dokuma]</b></sub><br/>
-      <sub>Anında kusursuz ve duyarlı stil kazandıran büyü rulosu.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <font size="6">🛡️</font><br/>
-      <b style="color: #60A5FA;">C# Kalkanı</b><br/>
-      <sub><b>[Çelik Savunma]</b></sub><br/>
-      <sub>Tip güvenliği ve kurumsal sağlamlık sağlayan koruyucu zırh.</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <font size="6">🗄️</font><br/>
-      <b style="color: #F43F5E;">SQL Sandığı</b><br/>
-      <sub><b>[Veri Mahzeni]</b></sub><br/>
-      <sub>Milyonlarca bilgiyi düzenle saklayan kadim veri sandığı.</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <font size="6">🐙</font><br/>
-      <b style="color: #FB923C;">Git Pusulası</b><br/>
-      <sub><b>[Zaman Aynası]</b></sub><br/>
-      <sub>Kodun geçmiş sürümlerini koruyan ve dallara ayıran pusula.</sub>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <font size="6">☕</font><br/>
-      <b style="color: #EAB308;">Sonsuz Kahve</b><br/>
-      <sub><b>[Ebedi Mana Kaynağı]</b></sub><br/>
-      <sub>Gece yarısı kodlama seanslarında tükenmeyen odaklanma iksiri.</sub>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="100%">
+
+### 🎓 Dersly — Eğitim Odaklı Web Projesi
+
+Öğrenme deneyimini dijital ortama taşımaya yönelik geliştirdiğim web projesi.
+
+**Görev durumu:** Geliştirme aşamasında
+
+- 🔧 Kaynak kodu: [GitHub deposu](https://github.com/MrGEFORCE6/dersly)
+- 🌐 Canlı sürüm: [Dersly'yi ziyaret et](https://rad-marigold-ff55c6.netlify.app/)
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+> Yeni projeler ve güncellemeler bu bölümde yer alacak.
 
-### 🏆 Başarım Vitrini (Steam-Style Trophies)
+---
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
-  <tr>
-    <td width="33.3%" align="center">
-      <font size="5">🦉</font><br/>
-      <b style="color: #C084FC;">Night Owl</b><br/>
-      <sub>Gece yarısı 03:00'da derleme tamamlandı.</sub>
-    </td>
-    <td width="33.3%" align="center">
-      <font size="5">🎯</font><br/>
-      <b style="color: #38BDF8;">Pixel Perfect</b><br/>
-      <sub>CSS düzenini tek seferde hatasız ortalama.</sub>
-    </td>
-    <td width="33.3%" align="center">
-      <font size="5">⚡</font><br/>
-      <b style="color: #34D399;">Bug Slayer</b><br/>
-      <sub>Tüm kritik konsol uyarılarını temizleme.</sub>
-    </td>
-  </tr>
+## 💎 Büyü Kitaplığım | Tech Stack
+
+<table width="100%">
+<tr>
+<td align="center" width="50%">
+
+### 💧 Frontend Magic
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" alt="Frontend technologies" />
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ Backend & Programming
+
+<img src="https://skillicons.dev/icons?i=py,cs,php&theme=dark" alt="Programming technologies" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Data & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Database technologies" />
+
+</td>
+<td align="center" width="50%">
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools" />
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-### 🪄 Büyülü Element Çemberi (Tech Stack Elements)
+## 🏆 Kişisel Görevler | Achievement Board
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td width="33.3%" align="center" valign="top">
-      <b style="color: #38BDF8;">💧 Su & Buz Büyüsü (Frontend)</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <b style="color: #A855F7;">⚡ Yıldırım & Güç Büyüsü (Backend)</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,cs,php&theme=dark" />
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <b style="color: #34D399;">🏛️ Kadim Kütüphane (Database & Tools)</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark" />
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 🦉 Night Owl
+
+<sub>Geceye karşı değil, kendi tempomda kod yazmak.</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 Pixel Perfect
+
+<sub>Arayüzleri daha tutarlı ve özenli hâle getirmek.</sub>
+
+</td>
+<td align="center" width="33%">
+
+### ⚔️ Bug Slayer
+
+<sub>Hatalardan öğrenerek projeleri geliştirmek.</sub>
+
+</td>
+</tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+---
 
-### 🌌 Macera Galerisi
+## 🌌 Macera Galerisi | Visual Archive
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" alt="Battle Eyes" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/1759287349211652.jpg" width="100%" alt="Cathedral" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/771100767466705175.jpg" width="100%" alt="Sunlit Forest" />
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" alt="Fantasy visual archive" />
 
-### 📊 Mana Akışı & İstatistikler
+<br/><br/>
 
-<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" height="155" alt="Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/1759287349211652.jpg" width="49%" alt="Fantasy cathedral" />
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/771100767466705175.jpg" width="49%" alt="Sunlit forest" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
-### 📜 Kadim Büyücü Yasaları (Mage's Creed)
+---
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <td>
-      ✦ <b>Kural I:</b> <i>"Tek satır temiz ve okunabilir kod, yüz satır karmaşık büyüden daha tesirlidir."</i><br/>
-      ✦ <b>Kural II:</b> <i>"Hatalar (bug'lar) düşman değil; sabırla çözülen her hata tecrübe puanıdır."</i><br/>
-      ✦ <b>Kural III:</b> <i>"Zorlu zindanlar tek başına değil, sağlam bir mimari ve kararlılıkla fethedilir."</i>
-    </td>
-  </tr>
-</table>
+## 📊 Mana Akışı | GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" alt="Most used programming languages" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MrGEFORCE6&style=flat&color=0e75b6&label=Guild+Visitors)
+
+</div>
+
+---
+
+## 📜 Kadim Büyücü Yasaları | Mage's Creed
+
+> ✦ **Kural I:** Okunabilir kod, gelecekteki kendine bırakılan en iyi nottur.
+>
+> ✦ **Kural II:** Hatalar başarısızlık değil, çözülmeyi bekleyen görevlerdir.
+>
+> ✦ **Kural III:** En güçlü geliştirici her şeyi bilen değil, öğrenmeye devam edendir.
 
 ---
 
 <div align="center">
 
-### 🛡️ Lonca Kabul & İletişim
+## 🛡️ Lonca Kapısı | Connect
 
-<a href="mailto:mertaliaycicek2@gmail.com">
-  <img src="https://img.shields.io/badge/E--Posta-Görev_İlet-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/MrGEFORCE6">
-  <img src="https://img.shields.io/badge/GitHub-Portfolyo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-<!-- Sayfa Sonu Lonca Mührü -->
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <font size="5">📜</font><br/>
-      <b style="color: #F59E0B; letter-spacing: 1px;">GUILD VERIFIED: S-TIER MAGE DEVELOPER</b><br/>
-      <sub>✦ Onaylandı: Temiz Kod & Yüksek Performans Mührü ✦</sub>
-    </td>
-  </tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-MrGEFORCE6-181717?style=for-the-badge&logo=github)](https://github.com/MrGEFORCE6)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mertaliaycicek2@gmail.com)
 
 <br/>
 
-<!-- Yumuşak Tonlu Degrade Dalga -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35&height=65&section=footer" width="100%" />
+*✦ Yeni görevler, yeni projeler ve yeni büyüler yakında. ✦*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:312E81&height=100&section=footer" width="100%" alt="Magic-themed footer" />
 
 </div>
