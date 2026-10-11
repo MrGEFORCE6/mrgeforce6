@@ -1,31 +1,31 @@
 <div align="center">
 
-<!-- En Üst Anime & RPG Arka Plan Banner -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.png" width="100%" alt="Frieren & Mushoku Tensei MERT Banner" />
+<!-- En Üst Anime & Isekai RPG Arka Plan Banner -->
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" alt="Mushoku Tensei & Mage Developer Banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=500&lines=✦+Bir+Mage+Developer'ın+Büyü+Kitabı...;✦+Frieren+gibi+sakin+ve+sabırla+kodluyorum...;✦+Yeni+dünyalarda+baştan+başlayan+projeler...;✦+Next.js+•+React+•+Python+•+Tailwind)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=520&lines=✦+Bir+Mage+Developer'ın+Büyü+Kitabı...;✦+Yeni+bir+dünyada+sıfırdan+yazılan+projeler...;✦+Sessiz+büyü+yapar+gibi+temiz+kodlama...;✦+Next.js+•+React+•+Python+•+Tailwind)](https://git.io/typing-svg)
 
 <br/>
 
-> *"Tıpkı bin yıllık bir elf ya da başka bir dünyada yeniden doğan bir büyücü gibi; en güçlü büyüler, sabırla yazılan temiz kod satırlarında saklıdır."*
+> *"Başka bir dünyada yeniden doğmuş gibi; en güçlü büyüler adım adım, sabırla yazılan temiz kod satırlarında saklıdır."*
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 📜 Karakter İstatistikleri (Adventurer Guild Card)
+### 📜 Karakter Kartı (Adventurer Guild Card)
 
 <table align="center" border="0">
   <tr>
     <td width="50%">
       <ul>
-        <li>🧙‍♂️ <b>Sınıf (Class):</b> Full-Stack Sorcerer / Web Tech</li>
+        <li>🧙‍♂️ <b>Sınıf (Class):</b> Silent Spellcaster / Web Tech</li>
         <li>✨ <b>Büyü Alanı (Specialty):</b> Frontend UI & Backend Mimari</li>
-        <li>⚔️ <b>Ana Özellik (Stat):</b> Yüksek Mana, Hızlı Reaksiyon</li>
-        <li>📖 <b>Mevcut Görev (Quest):</b> Yeni Nesil Web Uygulamaları</li>
-        <li>🎒 <b>Envanter:</b> Visual Studio Code, Kahve & Anime Müzikleri</li>
+        <li>⚔️ <b>Ana Nitelik (Stat):</b> Yüksek Mana Kapasitesi, Hızlı Optimizasyon</li>
+        <li>📖 <b>Mevcut Görev (Quest):</b> Yeni Nesil Modern Web Sistemleri</li>
+        <li>🎒 <b>Envanter:</b> Visual Studio Code, Kahve & Çalma Listeleri</li>
       </ul>
     </td>
     <td width="50%" align="center">
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-#### ⚡ Elementel Ön Yüz (Frontend Spells)
+#### ⚡ Elementel Ön Yüz Büyüleri (Frontend Spells)
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&theme=dark" />
 
 <br/><br/>
