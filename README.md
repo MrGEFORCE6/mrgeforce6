@@ -1,5 +1,6 @@
-# Merhaba, Ben [Adın] 👋
+# Merhaba, Ben Mert Ali 👋
 
+Bilişim Teknolojileri Yazılım Geliştirme Dalında bir Teknisyenim
 Web geliştirme ve modern yazılım teknolojileri üzerine projeler üreten bir geliştiriciyim. React, Next.js, Python, Tailwind CSS ve backend sistemleri üzerine odaklanıyorum.
 
 ---
