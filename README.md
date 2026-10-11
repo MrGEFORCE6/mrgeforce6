@@ -1,86 +1,70 @@
 <div align="center">
 
-# Merhaba, Ben Mert 👋
-### Web Geliştirici & Bilişim Teknolojileri Teknisyeni
+<!-- Üst Başlık Banner (Frieren & Büyü Temalı Görsel) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=220&section=header&text=Mert%20✦%20Mage%20Developer&fontSize=42&fontAlignY=38&desc=A%20Journey%20Through%20Code%20&%20Magic&descFontSize=18&descAlignY=62&fontColor=b3e5fc" width="100%" />
 
-[![Profil Ziyaretleri](https://komarev.com/ghpvc/?username=MrGEFORCE6&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenmesi&color=007ACC&style=flat-square)](https://github.com/MrGEFORCE6)
+<br/>
 
-<p align="center">
-  Web geliştirme ve modern yazılım mimarileri üzerine projeler üreten bir geliştiriciyim.<br/>
-  React, Next.js, Python, Tailwind CSS ve backend sistemleri üzerine odaklanıyorum.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=500&lines=Frieren+gibi+b%C3%BCy%C3%BC+toplar+gibi+kod+topluyorum...;Modern+Web+ve+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Next.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Tailwind;Yeni+bir+d%C3%BCnyada+en+ba%C5%9Ftan+in%C5%9Fa+edilen+projeler...)](https://git.io/typing-svg)
+
+<br/>
+
+> *"Tıpkı bin yıllık bir elf ya da başka bir dünyada yeniden doğan bir büyücü gibi; en güçlü büyüler sabırla yazılan temiz kod satırlarında saklıdır."*
 
 </div>
 
 ---
 
-### 🏆 GitHub Başarı Kupaları
+### 📜 Karakter İstatistikleri (Adventurer Guild Card)
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>🧙‍♂️ <b>Sınıf (Class):</b> Full-Stack Sorcerer / Web Tech</li>
+        <li>✨ <b>Büyü Alanı:</b> Frontend UI & Backend Mimari</li>
+        <li>⚔️ <b>Ana Odak:</b> Performans, Responsive Dizayn, Temiz Kod</li>
+        <li>📖 <b>Mevcut Görev (Quest):</b> Yeni Nesil Web Uygulamaları</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGEFORCE6&theme=radical&hide_border=true&background=0D1117&ring=64B5F6&fire=81D4FA&currStreakNum=90CAF9" width="100%" alt="Mana & Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🪄 Büyü Kitabı (Tech Stack & Grimoire)
+
+<div align="center">
+
+#### ⚡ Elementel Ön Yüz (Frontend Spells)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma&theme=dark" />
+
+<br/><br/>
+
+#### 🔮 Çekirdek & Sunucu Büyüleri (Backend & Core Mana)
+<img src="https://skillicons.dev/icons?i=py,cs,php,mysql,sqlite&theme=dark" />
+
+<br/><br/>
+
+#### 🛡️ Ekipmanlar & İksirler (Enchanted Tools)
+<img src="https://skillicons.dev/icons?i=vscode,git,github,netlify,vercel&theme=dark" />
+
+</div>
+
+---
+
+### 📊 Mana Akışı & Aktiviteler
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrGEFORCE6&theme=tokyonight&no-frame=true&margin-w=4" alt="MrGEFORCE6 Kupalar" />
-</p>
-
----
-
-### 🚀 Nelerle İlgileniyorum?
-
-- 🔭 **Projeler:** Modern Web Uygulamaları & UI/UX Odaklı Sistemler
-- 🌱 **Geliştirdiğim Alanlar:** Full-Stack Mimariler, API Tasarımı & Performans Optimizasyonu
-- 💬 **İletişim:** Frontend geliştirme, UI bileşenleri, entegrasyonlar ve modern mimariler
-- ⚡ **İlgi Alanlarım:** Donanım, simülasyonlar ve açık kaynaklı geliştirici araçları
-
----
-
-### 🛠️ Teknolojiler ve Araçlar
-
-<p align="left">
-  <b>Frontend & Tasarım:</b><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<p align="left">
-  <b>Backend & Diller:</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-<p align="left">
-  <b>Geliştirme Araçları & Dağıtım:</b><br/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
----
-
-### 🔥 Kodlama & Commit Serisi
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGEFORCE6&theme=tokyonight&hide_border=true" alt="Commit Serisi" />
-</p>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub İstatistikleri" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" height="155" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
 </p>
 
 ---
 
 <div align="center">
-  <i>💡 Kod yazmak, karmaşık sorunları sade çözümlere dönüştürme sanatıdır.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=100&section=footer" width="100%" />
 </div>
