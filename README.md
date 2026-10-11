@@ -50,26 +50,26 @@
   <tr>
     <td width="16%">🖥️<br/><sub><b>VS Code</b></sub></td>
     <td width="16%">☕<br/><sub><b>Bitmeyen Kahve</b></sub></td>
-    <td width="16%">📜<br/><sub><b>Temiz Kod Parşömeni</b></sub></td>
+    <td width="16%">📜<br/><sub><b>Temiz Kod</b></sub></td>
     <td width="16%">🧪<br/><sub><b>Mana İksiri</b></sub></td>
     <td width="16%">🎨<br/><sub><b>Figma Paleti</b></sub></td>
-    <td width="16%">⌨️<br/><sub><b>Mekanik Klavye</b></sub></td>
+    <td width="16%">⌨️<br/><sub><b>Mekanik Tuş</b></sub></td>
   </tr>
   <tr>
-    <td>🌐<br/><sub><b>Next.js Çekirdeği</b></sub></td>
+    <td>🌐<br/><sub><b>Next.js Çekirdek</b></sub></td>
     <td>⚛️<br/><sub><b>React Kristali</b></sub></td>
     <td>🐍<br/><sub><b>Python Asası</b></sub></td>
-    <td>💨<br/><sub><b>Tailwind Pelerini</b></sub></td>
+    <td>💨<br/><sub><b>Tailwind Pelerin</b></sub></td>
     <td>🗄️<br/><sub><b>SQL Sandığı</b></sub></td>
     <td>🐙<br/><sub><b>Git Pusulası</b></sub></td>
   </tr>
   <tr>
-    <td>🎧<br/><sub><b>Tavern Kulaklığı</b></sub></td>
-    <td>🌙<br/><sub><b>Gece Modu Muskası</b></sub></td>
-    <td>⚡<br/><sub><b>Hızlı API Yüzüğü</b></sub></td>
+    <td>🎧<br/><sub><b>Tavern Sesi</b></sub></td>
+    <td>🌙<br/><sub><b>Gece Muskası</b></sub></td>
+    <td>⚡<br/><sub><b>Hızlı API</b></sub></td>
     <td>🛡️<br/><sub><b>C# Kalkanı</b></sub></td>
-    <td>🐱<br/><sub><b>Kedi Maskotu</b></sub></td>
-    <td>✨<br/><sub><b>Sessiz Büyü Taşı</b></sub></td>
+    <td>🐱<br/><sub><b>Kedi Maskot</b></sub></td>
+    <td>✨<br/><sub><b>Sessiz Büyü</b></sub></td>
   </tr>
 </table>
 
@@ -80,12 +80,12 @@
 <table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="135" height="135" alt="Roxy Migurdia" /><br/>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Roxy%20Migurdia%20_%20Mushoku%20Tensei_%20Jobless%20Reincarnation_.jpg" width="135" height="135" alt="Roxy Migurdia" /><br/>
       <b>Roxy Migurdia</b><br/>
       <sub><i>Water King Tier Mage • Danışman</i></sub>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/sylphiette.jpg" width="135" height="135" alt="Sylphiette" /><br/>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/25192079162389332.jpg" width="135" height="135" alt="Sylphiette" /><br/>
       <b>Sylphiette</b><br/>
       <sub><i>Silent Spellcaster • Destek</i></sub>
     </td>
@@ -148,13 +148,76 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🔮 Günün Büyüsü (Spell of the Day)
+### 🔮 Günün Büyü Parşömeni (Ancient Spell Scroll)
 
-```python
-def cast_spell(mana: int = 100) -> str:
-    """Temiz kod yazma ve hataları ortadan kaldırma büyüsü."""
-    if mana >= 50:
-        return "✨ Syntax hatası temizlendi, sunucu performansı %100 arttırıldı!"
-    return "😴 Mana yetersiz! Lütfen bir kahve molası verin."
+<table align="center" border="0" cellpadding="12" cellspacing="0" width="100%" style="background-color: #0D1117; border-radius: 12px; border: 1px solid #1E293B;">
+  <tr>
+    <td align="center" width="15%">
+      <font size="6">📜</font>
+    </td>
+    <td width="85%">
+      <b>Büyü Adı:</b> <code>CleanCode_Optimization_TierVII()</code><br/>
+      <b>Harcanan Mana:</b> <code>50 MP</code> &nbsp;|&nbsp; <b>Etki Alanı:</b> <code>Tüm Sunucu</code><br/>
+      <sub>✨ <i>"Kod satırları arasındaki tüm fazlalıkları arındırır, derleme süresini yarıya indirir ve sistemi pürüzsüz kılar."</i></sub>
+    </td>
+  </tr>
+</table>
 
-print(cast_spell(999))
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🏆 Açılan Başarımlar (Achievements Unlocked)
+
+- 🦉 **[Night Owl Developer]:** Gece yarısı 03:00'da hata ayıklayıp canlıya alma başarımı.
+- 🎯 **[Pixel Perfect]:** CSS hizalamasını tek denemede tam ortalama ustalığı.
+- 🧙‍♂️ **[Silent Spellcaster]:** Kod yazarken klavye sesleri ve anime müzikleriyle transa geçme.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 📊 Mana Akışı & İstatistikler
+
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" height="155" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🐱 Dinlenme Kampı (Campfire Companions)
+
+<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/151715081194595844.jpg" width="140" alt="Sunset Cat" /><br/>
+      <sub><b>Sunset Cat 🌅</b></sub>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/indir.jpg" width="140" alt="Headset Cat" /><br/>
+      <sub><b>Pro Caster 🎙️</b></sub>
+    </td>
+    <td width="33.3%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Gamer%20cat.jpg" width="140" alt="Energy Cat" /><br/>
+      <sub><b>Monster Gamer ⚡</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>📬 Lonca Resepsiyonu (Guild Reception)</h3>
+  <a href="mailto:mertaliaycicek2@gmail.com">
+    <img src="https://img.shields.io/badge/E--Posta-Görev_İlet-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MrGEFORCE6">
+    <img src="https://img.shields.io/badge/GitHub-Portfolyo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=80&section=footer" width="100%" />
+</div>
