@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Frieren Banner -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Frieren%20Dark%20Wallpaper.jpg" width="100%" alt="Frieren Dark Wallpaper" />
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/50172983344486696.jpg" width="100%" alt="Frieren Dark Wallpaper" />
 
 <br/><br/>
 
