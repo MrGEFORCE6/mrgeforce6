@@ -1,15 +1,37 @@
 <div align="center">
 
-<!-- Üst RPG Arka Plan Banner -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Frieren%20Dark%20Wallpaper.jpg" width="100%" alt="Mushoku Tensei & Mage Developer Banner" />
+<!-- Üst RPG Arka Plan Banner (Otomatik Ortalanmış & Kırpılmış Sinematik Boyut) -->
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" height="240" style="object-fit: cover; object-position: center; border-radius: 12px; border: 1px solid #1E293B;" alt="Mage Developer Banner" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=540&lines=✦+Bir+Mage+Developer'ın+Büyü+Kitabı...;✦+Yeni+bir+dünyada+sıfırdan+yazılan+projeler...;✦+Sessiz+büyü+yapar+gibi+temiz+kodlama...;✦+Next.js+•+React+•+Python+•+Tailwind)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=520&lines=✦+Bir+Mage+Developer'ın+Büyü+Kitabı...;✦+Yeni+bir+dünyada+sıfırdan+yazılan+projeler...;✦+Sessiz+büyü+yapar+gibi+temiz+kodlama...;✦+Next.js+•+React+•+Python+•+Tailwind)](https://git.io/typing-svg)
+> *"Tıpkı başka bir dünyada yeniden doğmuş gibi; en güçlü büyüler adım adım, sabırla yazılan temiz kod satırlarında saklıdır."*
 
+<!-- 🎵 Dinlenme Hanı Müzikçaları (Özel Spotify Tavern Parçası) -->
 <br/>
-
-> *"Başka bir dünyada yeniden doğmuş gibi; en güçlü büyüler adım adım, sabırla yazılan temiz kod satırlarında saklıdır."*
+<table border="0" cellpadding="8" cellspacing="0" style="background:#0D1117; border-radius:12px; border:1px solid #1E293B;">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/intl-tr/track/0W7TWQmdeH4p2o5wbdVR8S?si=11beb49aa4434fbd" target="_blank">
+        <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/5024335208769478.jpg" width="48" height="48" style="object-fit: cover; object-position: center; border-radius:10px; border:1px solid #64B5F6;" alt="Tavern Music Icon" />
+      </a>
+    </td>
+    <td align="left">
+      <sub>🎧 <b>ŞU AN ÇALIYOR:</b> <i>Isekai Tavern Ambience</i></sub><br/>
+      <img src="https://user-images.githubusercontent.com/5084514/156942953-ce2fb225-b46d-495d-ab93-d2543e2e8e39.gif" width="120" height="15" alt="Sound Wave" />
+      &nbsp; <sub>01:15 / 02:40</sub>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/intl-tr/track/0W7TWQmdeH4p2o5wbdVR8S?si=11beb49aa4434fbd" target="_blank">
+        <img src="https://img.shields.io/badge/Tavern_Müziğini_Dinle-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="28" alt="Spotify Tavern" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -20,23 +42,23 @@
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <!-- Sol Bilgiler -->
-    <td width="40%" valign="top">
+    <!-- Sol Nitelikler -->
+    <td width="42%" valign="middle">
       <ul>
         <li>🧙‍♂️ <b>Sınıf (Class):</b> Silent Spellcaster / Web Tech</li>
         <li>✨ <b>Büyü Alanı:</b> Frontend UI & Backend Mimari</li>
         <li>⚔️ <b>Ana Nitelik:</b> Yüksek Mana Kapasitesi, Hızlı Optimizasyon</li>
         <li>📖 <b>Mevcut Görev:</b> Yeni Nesil Modern Web Sistemleri</li>
-        <li>🎒 <b>Envanter:</b> VS Code, Kahve & Çalma Listeleri</li>
+        <li>🎒 <b>Envanter:</b> VS Code, Kahve & Tavern Çalma Listeleri</li>
       </ul>
     </td>
-    <!-- Orta Küçük Karakter Görseli (indir.jpg) -->
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/indir.jpg" width="130" style="border-radius: 10px; border: 2px solid #64B5F6;" alt="Mage Character" />
-      <br/><sub><i>Guild Member</i></sub>
+    <!-- Orta Kare Büyücü Kartı (Roxy - Kod İçi Otomatik Odaklama) -->
+    <td width="26%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/597571444353495661.jpg" width="150" height="150" style="object-fit: cover; object-position: 50% 25%; border-radius: 16px; border: 2px solid #64B5F6;" alt="Roxy Mage" />
+      <br/><sub><i>Büyü Ustası</i></sub>
     </td>
-    <!-- Sağ Grafik (Streak Stats) -->
-    <td width="35%" align="center" valign="top">
+    <!-- Sağ Streak Kartı -->
+    <td width="32%" align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGEFORCE6&theme=radical&hide_border=true&background=0D1117&ring=64B5F6&fire=81D4FA&currStreakNum=90CAF9" width="100%" alt="Mana & Streak" />
     </td>
   </tr>
@@ -67,67 +89,9 @@
 <!-- Renkli Bölücü Çizgi -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🌌 Gece Yolculuğu & Macera Galerisi
+### 🌌 Macera & Sanat Galerisi (Kod İçi Eşit 2:1 Oranında Kırpılmış)
 
-<p align="center">
-  <!-- Frieren ve Karanlık Temalı Manzaralar (Yan Yana) -->
-  <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="48%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Night Journey" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/151715081194595844.jpg" width="48%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Epic Landscape" />
-</p>
-
-<p align="center">
-  <!-- Büyük İki Epik Sanat Eseri (Yatay Düzen) -->
-  <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/1759287349211652.jpg" width="48%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Enchanted Forest" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/5418400176355070%20(1).jpg" width="48%" style="border-radius: 8px; border: 1px solid #1E293B;" alt="Ruin Exploration" />
-</p>
-
-<!-- Renkli Bölücü Çizgi -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-### 📊 Mana Akışı & Aktiviteler
-
-<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="6" cellspacing="0" width="100%">
   <tr>
-    <!-- Sol tarafta İstatistikler -->
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" height="155" alt="Stats" />
-    </td>
-    <!-- Sağ tarafta En Çok Kullanılan Diller -->
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
-    </td>
-  </tr>
-</table>
-
-<!-- Renkli Bölücü Çizgi -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-### 🐱 Dinlenme Noktası (Safe Zone)
-
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
-  <tr>
-    <!-- Anime Karakter ve Detayları -->
-    <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/5024335208769478.jpg" width="140" style="border-radius: 50%; border: 3px solid #81D4FA;" alt="Mage Ally" />
-      <br/><sub><b>Sylphiette</b></sub>
-    </td>
-    <!-- Gamer Cat ve Mistik Yol Arkadaşları -->
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Gamer%20cat.jpg" width="120" style="border-radius: 12px; border: 2px solid #81D4FA;" alt="Chibi Companion" />
-      <br/><sub><b>Gamer Cat 🐾</b></sub>
-    </td>
-    <!-- Kadim Bilgi / Diğer Karakter -->
-    <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/771100767466705175.jpg" width="140" style="border-radius: 50%; border: 3px solid #81D4FA;" alt="Spell Assistant" />
-      <br/><sub><b>Roxy</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=80&section=footer" width="100%" />
-</div>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/54184001763550470%20(1).jpg" width="100%" height="220" style="object-fit: cover; object
