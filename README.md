@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- Üst Başlık Banner (Frieren & Büyü Temalı Görsel) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=220&section=header&text=Mert%20✦%20Mage%20Developer&fontSize=42&fontAlignY=38&desc=A%20Journey%20Through%20Code%20&%20Magic&descFontSize=18&descAlignY=62&fontColor=b3e5fc" width="100%" />
+<!-- En Üst Anime & RPG Arka Plan Banner -->
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.png" width="100%" alt="Frieren & Mushoku Tensei MERT Banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=500&lines=Frieren+gibi+b%C3%BCy%C3%BC+toplar+gibi+kod+topluyorum...;Modern+Web+ve+Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;Next.js+%E2%80%A2+React+%E2%80%A2+Python+%E2%80%A2+Tailwind;Yeni+bir+d%C3%BCnyada+en+ba%C5%9Ftan+in%C5%9Fa+edilen+projeler...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=90CAF9&center=true&vCenter=true&width=500&lines=✦+Bir+Mage+Developer'ın+Büyü+Kitabı...;✦+Frieren+gibi+sakin+ve+sabırla+kodluyorum...;✦+Yeni+dünyalarda+baştan+başlayan+projeler...;✦+Next.js+•+React+•+Python+•+Tailwind)](https://git.io/typing-svg)
 
 <br/>
 
-> *"Tıpkı bin yıllık bir elf ya da başka bir dünyada yeniden doğan bir büyücü gibi; en güçlü büyüler sabırla yazılan temiz kod satırlarında saklıdır."*
+> *"Tıpkı bin yıllık bir elf ya da başka bir dünyada yeniden doğan bir büyücü gibi; en güçlü büyüler, sabırla yazılan temiz kod satırlarında saklıdır."*
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📜 Karakter İstatistikleri (Adventurer Guild Card)
 
@@ -22,9 +22,10 @@
     <td width="50%">
       <ul>
         <li>🧙‍♂️ <b>Sınıf (Class):</b> Full-Stack Sorcerer / Web Tech</li>
-        <li>✨ <b>Büyü Alanı:</b> Frontend UI & Backend Mimari</li>
-        <li>⚔️ <b>Ana Odak:</b> Performans, Responsive Dizayn, Temiz Kod</li>
+        <li>✨ <b>Büyü Alanı (Specialty):</b> Frontend UI & Backend Mimari</li>
+        <li>⚔️ <b>Ana Özellik (Stat):</b> Yüksek Mana, Hızlı Reaksiyon</li>
         <li>📖 <b>Mevcut Görev (Quest):</b> Yeni Nesil Web Uygulamaları</li>
+        <li>🎒 <b>Envanter:</b> Visual Studio Code, Kahve & Anime Müzikleri</li>
       </ul>
     </td>
     <td width="50%" align="center">
@@ -33,9 +34,9 @@
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🪄 Büyü Kitabı (Tech Stack & Grimoire)
+### 🪄 Büyü Kitabı (Enchanted Skill Tree)
 
 <div align="center">
 
@@ -54,7 +55,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📊 Mana Akışı & Aktiviteler
 
@@ -66,5 +67,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=80&section=footer" width="100%" />
 </div>
