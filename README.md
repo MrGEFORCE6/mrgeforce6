@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Üst RPG Arka Plan Banner (Otomatik Ortalanmış & Kırpılmış Sinematik Boyut) -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" height="240" style="object-fit: cover; object-position: center; border-radius: 12px; border: 1px solid #1E293B;" alt="Mage Developer Banner" />
+<!-- Frieren Banner -->
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Frieren%20Dark%20Wallpaper.jpg" width="100%" alt="Frieren Dark Wallpaper" />
 
 <br/><br/>
 
@@ -9,62 +9,35 @@
 
 <br/>
 
-> *"Tıpkı başka bir dünyada yeniden doğmuş gibi; en güçlü büyüler adım adım, sabırla yazılan temiz kod satırlarında saklıdır."*
-
-<!-- 🎵 Dinlenme Hanı Müzikçaları (Özel Spotify Tavern Parçası) -->
-<br/>
-<table border="0" cellpadding="8" cellspacing="0" style="background:#0D1117; border-radius:12px; border:1px solid #1E293B;">
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/intl-tr/track/0W7TWQmdeH4p2o5wbdVR8S?si=11beb49aa4434fbd" target="_blank">
-        <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/5024335208769478.jpg" width="48" height="48" style="object-fit: cover; object-position: center; border-radius:10px; border:1px solid #64B5F6;" alt="Tavern Music Icon" />
-      </a>
-    </td>
-    <td align="left">
-      <sub>🎧 <b>ŞU AN ÇALIYOR:</b> <i>Isekai Tavern Ambience</i></sub><br/>
-      <img src="https://user-images.githubusercontent.com/5084514/156942953-ce2fb225-b46d-495d-ab93-d2543e2e8e39.gif" width="120" height="15" alt="Sound Wave" />
-      &nbsp; <sub>01:15 / 02:40</sub>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/intl-tr/track/0W7TWQmdeH4p2o5wbdVR8S?si=11beb49aa4434fbd" target="_blank">
-        <img src="https://img.shields.io/badge/Tavern_Müziğini_Dinle-1DB954?style=for-the-badge&logo=spotify&logoColor=white" height="28" alt="Spotify Tavern" />
-      </a>
-    </td>
-  </tr>
-</table>
+> *"Tıpkı bin yıllık bir büyücü gibi; en güçlü büyüler adım adım, sabırla yazılan temiz kod satırlarında saklıdır."*
 
 </div>
 
-<!-- Renkli Bölücü Çizgi -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 📜 Karakter Kartı (Adventurer Guild Card)
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <!-- Sol Nitelikler -->
     <td width="42%" valign="middle">
       <ul>
         <li>🧙‍♂️ <b>Sınıf (Class):</b> Silent Spellcaster / Web Tech</li>
         <li>✨ <b>Büyü Alanı:</b> Frontend UI & Backend Mimari</li>
         <li>⚔️ <b>Ana Nitelik:</b> Yüksek Mana Kapasitesi, Hızlı Optimizasyon</li>
         <li>📖 <b>Mevcut Görev:</b> Yeni Nesil Modern Web Sistemleri</li>
-        <li>🎒 <b>Envanter:</b> VS Code, Kahve & Tavern Çalma Listeleri</li>
+        <li>🎒 <b>Envanter:</b> VS Code, Kahve & Çalma Listeleri</li>
       </ul>
     </td>
-    <!-- Orta Kare Büyücü Kartı (Roxy - Kod İçi Otomatik Odaklama) -->
     <td width="26%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/597571444353495661.jpg" width="150" height="150" style="object-fit: cover; object-position: 50% 25%; border-radius: 16px; border: 2px solid #64B5F6;" alt="Roxy Mage" />
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/597571444353495661.jpg" width="140" alt="Roxy Mage" />
       <br/><sub><i>Büyü Ustası</i></sub>
     </td>
-    <!-- Sağ Streak Kartı -->
     <td width="32%" align="center" valign="middle">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGEFORCE6&theme=radical&hide_border=true&background=0D1117&ring=64B5F6&fire=81D4FA&currStreakNum=90CAF9" width="100%" alt="Mana & Streak" />
     </td>
   </tr>
 </table>
 
-<!-- Renkli Bölücü Çizgi -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### 🪄 Büyü Kitabı (Enchanted Skill Tree)
@@ -86,12 +59,71 @@
 
 </div>
 
-<!-- Renkli Bölücü Çizgi -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🌌 Macera & Sanat Galerisi (Kod İçi Eşit 2:1 Oranında Kırpılmış)
+### 🌌 Macera & Sanat Galerisi
 
-<table align="center" border="0" cellpadding="6" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/54184001763550470%20(1).jpg" width="100%" alt="Blade Master" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/banner.jpg" width="100%" alt="Battle Eyes" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/1759287349211652.jpg" width="100%" alt="Cathedral" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/771100767466705175.jpg" width="100%" alt="Sunlit Forest" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 📊 Mana Akışı & Aktiviteler
+
+<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/54184001763550470%20(1).jpg" width="100%" height="220" style="object-fit: cover; object
+      <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" height="155" alt="Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### 🐱 Dinlenme Noktası & Ekip (Campfire)
+
+<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/151715081194595844.jpg" width="130" alt="Sunset Cat" />
+      <br/><sub><b>Sunset Cat 🌅</b></sub>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/indir.jpg" width="130" alt="Headset Cat" />
+      <br/><sub><b>Pro Caster 🎙️</b></sub>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Gamer%20cat.jpg" width="130" alt="Energy Cat" />
+      <br/><sub><b>Monster Gamer ⚡</b></sub>
+    </td>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/5024335208769478.jpg" width="130" alt="Sleepy Pixel Cat" />
+      <br/><sub><b>AFK / Sleeping 💤</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=80&section=footer" width="100%" />
+</div>
