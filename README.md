@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Yeni RPG Macera Banner'ı -->
-<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/wp14319833.jpg" width="100%" alt="Adventure Banner" />
+<img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/wp143198331.jpg" width="100%" alt="Adventure Banner" />
 
 <br/><br/>
 
