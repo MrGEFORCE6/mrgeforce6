@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Yeni RPG Macera Banner'ı -->
+<!-- Yüksek Çözünürlüklü Yeni Macera Banner'ı -->
 <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/thumb-1920-1076888.png" width="100%" alt="Adventure Banner" />
 
 <br/><br/>
@@ -15,135 +15,86 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 🎮 Oyuncu Durumu & Ekipman (Player Status HUD)
-
-<table align="center" border="0" cellpadding="12" cellspacing="0" width="100%" style="background-color: #0D1117; border: 2px solid #38BDF8; border-radius: 12px;">
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="120" height="120" style="border: 3px solid #F59E0B; border-radius: 10px;" alt="Character Portrait" />
-      <br/>
-      <span style="color: #F59E0B; font-weight: bold;">✦ LVL. 99 MAGE ✦</span>
-    </td>
-    <td width="45%" valign="middle">
-      <b style="color: #38BDF8;">NAME:</b> <code>Mert [Silent Spellcaster]</code><br/>
-      <b style="color: #4ADE80;">HP:</b> <code>[████████████████████] 100%</code><br/>
-      <b style="color: #60A5FA;">MP:</b> <code>[████████████████████] MAX</code><br/>
-      <b style="color: #FACC15;">EXP:</b> <code>[████████████████░░░░] 94.200 / 100.000</code><br/>
-      <sub><i>Next Level: Senior Architect</i></sub>
-    </td>
-    <td width="30%" valign="middle">
-      <b style="color: #C084FC;">⚔️ EQUIPPED GEAR:</b>
-      <ul style="margin: 4px 0; padding-left: 18px;">
-        <li><b>Weapon:</b> VS Code Wand</li>
-        <li><b>Armor:</b> Dark Theme Cloak</li>
-        <li><b>Ring:</b> Fast API Ring</li>
-        <li><b>Relic:</b> Endless Coffee</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ### 👥 Lonca Parti Kartları (Adventurer Trading Cards)
 
 <table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #38BDF8; border-radius: 12px; text-align: center;">
-        <tr>
-          <td align="center">
-            <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="130" height="130" style="border-radius: 8px; border: 1px solid #60A5FA;" alt="Roxy Migurdia" /><br/><br/>
-            <b>Roxy Migurdia</b><br/>
-            <span style="color: #38BDF8;">💧 Su & Buz Ustası</span><br/>
-            <hr style="border: 0; border-top: 1px solid #1E293B;" />
-            <sub><b>Parti Bonusu:</b><br/>+30% Mimari & Kod Mantığı</sub>
-          </td>
-        </tr>
-      </table>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="130" height="130" alt="Roxy Migurdia" /><br/><br/>
+      <b>Roxy Migurdia</b><br/>
+      <span style="color: #38BDF8;">💧 Su & Buz Ustası</span><br/>
+      <sub><i>Parti Bonusu: +30% Mimari & Mantık</i></sub>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #34D399; border-radius: 12px; text-align: center;">
-        <tr>
-          <td align="center">
-            <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/25192079162389332.jpg" width="130" height="130" style="border-radius: 8px; border: 1px solid #34D399;" alt="Sylphiette" /><br/><br/>
-            <b>Sylphiette</b><br/>
-            <span style="color: #34D399;">🍃 Sessiz Büyücü</span><br/>
-            <hr style="border: 0; border-top: 1px solid #1E293B;" />
-            <sub><b>Parti Bonusu:</b><br/>+25% Odaklanma & Hız</sub>
-          </td>
-        </tr>
-      </table>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/25192079162389332.jpg" width="130" height="130" alt="Sylphiette" /><br/><br/>
+      <b>Sylphiette</b><br/>
+      <span style="color: #34D399;">🍃 Sessiz Büyücü</span><br/>
+      <sub><i>Parti Bonusu: +25% Odaklanma & Hız</i></sub>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #F87171; border-radius: 12px; text-align: center;">
-        <tr>
-          <td align="center">
-            <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Eris%20Greyrat.jpg" width="130" height="130" style="border-radius: 8px; border: 1px solid #F87171;" alt="Eris Greyrat" /><br/><br/>
-            <b>Eris Greyrat</b><br/>
-            <span style="color: #F87171;">⚔️ Kılıç Kralı</span><br/>
-            <hr style="border: 0; border-top: 1px solid #1E293B;" />
-            <sub><b>Parti Bonusu:</b><br/>+35% Kritik Hata Ayıklama</sub>
-          </td>
-        </tr>
-      </table>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Eris%20Greyrat.jpg" width="130" height="130" alt="Eris Greyrat" /><br/><br/>
+      <b>Eris Greyrat</b><br/>
+      <span style="color: #F87171;">⚔️ Kılıç Kralı</span><br/>
+      <sub><i>Parti Bonusu: +35% Kritik Hata Ayıklama</i></sub>
     </td>
   </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### 💎 Efsanevi Materyaller (Mythic Crafting Components)
+### 💎 Efsanevi Materyaller & Simya Bileşenleri (Mythic Materials)
 
-<table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="12" cellspacing="0" width="100%">
   <tr>
-    <td width="25%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #38BDF8; border-radius: 8px; text-align: center;">
-        <tr>
-          <td>
-            <font size="5">🔷</font><br/>
-            <b style="color: #38BDF8;">React Kristali</b><br/>
-            <sub>[S-Rank Bileşen]</sub><br/>
-            <sub>Dinamik UI üretimi için saf enerji kristali.</sub>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center" valign="top">
+      <font size="6">🔷</font><br/>
+      <b style="color: #38BDF8;">React Kristali</b><br/>
+      <sub><b>[S-Rank Bileşen]</b></sub><br/>
+      <sub>Dinamik & reaktif UI üretimi için saf büyü kristali.</sub>
     </td>
-    <td width="25%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #A855F7; border-radius: 8px; text-align: center;">
-        <tr>
-          <td>
-            <font size="5">🔮</font><br/>
-            <b style="color: #C084FC;">Next.js Çekirdeği</b><br/>
-            <sub>[Kadim Kalıntı]</sub><br/>
-            <sub>SSR & Hızlı rota geçişleri sağlayan büyü motoru.</sub>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center" valign="top">
+      <font size="6">🔮</font><br/>
+      <b style="color: #C084FC;">Next.js Çekirdeği</b><br/>
+      <sub><b>[Kadim Kalıntı]</b></sub><br/>
+      <sub>SSR ve ışık hızında rota geçişleri sağlayan büyü motoru.</sub>
     </td>
-    <td width="25%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #34D399; border-radius: 8px; text-align: center;">
-        <tr>
-          <td>
-            <font size="5">🧪</font><br/>
-            <b style="color: #34D399;">Python Esansı</b><br/>
-            <sub>[Simya İksiri]</sub><br/>
-            <sub>Karmaşık algoritmaları ve veri akışını çözer.</sub>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center" valign="top">
+      <font size="6">🧪</font><br/>
+      <b style="color: #34D399;">Python Esansı</b><br/>
+      <sub><b>[Simya İksiri]</b></sub><br/>
+      <sub>Karmaşık algoritmaları ve veri akışını çözen kadim iksir.</sub>
     </td>
-    <td width="25%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #F59E0B; border-radius: 8px; text-align: center;">
-        <tr>
-          <td>
-            <font size="5">📜</font><br/>
-            <b style="color: #F59E0B;">Tailwind Rulosu</b><br/>
-            <sub>[Efsunlu Dokuma]</sub><br/>
-            <sub>Anında kusursuz arayüz stili kazandırır.</sub>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center" valign="top">
+      <font size="6">📜</font><br/>
+      <b style="color: #F59E0B;">Tailwind Rulosu</b><br/>
+      <sub><b>[Efsunlu Dokuma]</b></sub><br/>
+      <sub>Anında kusursuz ve duyarlı stil kazandıran büyü rulosu.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <font size="6">🛡️</font><br/>
+      <b style="color: #60A5FA;">C# Kalkanı</b><br/>
+      <sub><b>[Çelik Savunma]</b></sub><br/>
+      <sub>Tip güvenliği ve kurumsal sağlamlık sağlayan koruyucu zırh.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <font size="6">🗄️</font><br/>
+      <b style="color: #F43F5E;">SQL Sandığı</b><br/>
+      <sub><b>[Veri Mahzeni]</b></sub><br/>
+      <sub>Milyonlarca bilgiyi düzenle saklayan kadim veri sandığı.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <font size="6">🐙</font><br/>
+      <b style="color: #FB923C;">Git Pusulası</b><br/>
+      <sub><b>[Zaman Aynası]</b></sub><br/>
+      <sub>Kodun geçmiş sürümlerini koruyan ve dallara ayıran pusula.</sub>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <font size="6">☕</font><br/>
+      <b style="color: #EAB308;">Sonsuz Kahve</b><br/>
+      <sub><b>[Ebedi Mana Kaynağı]</b></sub><br/>
+      <sub>Gece yarısı kodlama seanslarında tükenmeyen odaklanma iksiri.</sub>
     </td>
   </tr>
 </table>
@@ -155,37 +106,19 @@
 <table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <td width="33.3%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #A855F7; border-radius: 8px;">
-        <tr>
-          <td width="30%" align="center"><font size="6">🦉</font></td>
-          <td width="70%">
-            <b style="color: #C084FC;">Night Owl</b><br/>
-            <sub>Gece yarısı 03:00'da derleme tamamlandı.</sub>
-          </td>
-        </tr>
-      </table>
+      <font size="5">🦉</font><br/>
+      <b style="color: #C084FC;">Night Owl</b><br/>
+      <sub>Gece yarısı 03:00'da derleme tamamlandı.</sub>
     </td>
     <td width="33.3%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #38BDF8; border-radius: 8px;">
-        <tr>
-          <td width="30%" align="center"><font size="6">🎯</font></td>
-          <td width="70%">
-            <b style="color: #38BDF8;">Pixel Perfect</b><br/>
-            <sub>CSS düzenini tek seferde hatasız ortalama.</sub>
-          </td>
-        </tr>
-      </table>
+      <font size="5">🎯</font><br/>
+      <b style="color: #38BDF8;">Pixel Perfect</b><br/>
+      <sub>CSS düzenini tek seferde hatasız ortalama.</sub>
     </td>
     <td width="33.3%" align="center">
-      <table border="0" cellpadding="8" cellspacing="0" width="100%" style="background-color: #0D1117; border: 1px solid #34D399; border-radius: 8px;">
-        <tr>
-          <td width="30%" align="center"><font size="6">⚡</font></td>
-          <td width="70%">
-            <b style="color: #34D399;">Bug Slayer</b><br/>
-            <sub>Tüm kritik konsol uyarılarını temizleme.</sub>
-          </td>
-        </tr>
-      </table>
+      <font size="5">⚡</font><br/>
+      <b style="color: #34D399;">Bug Slayer</b><br/>
+      <sub>Tüm kritik konsol uyarılarını temizleme.</sub>
     </td>
   </tr>
 </table>
@@ -194,7 +127,7 @@
 
 ### 🪄 Büyülü Element Çemberi (Tech Stack Elements)
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #0D1117; border-radius: 12px; border: 1px solid #1E293B;">
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="33.3%" align="center" valign="top">
       <b style="color: #38BDF8;">💧 Su & Buz Büyüsü (Frontend)</b><br/><br/>
@@ -241,7 +174,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&icon_color=64B5F6&text_color=E0E0E0" height="155" alt="Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGEFORCE6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=81D4FA&text_color=E0E0E0" height="155" alt="Diller" />
     </td>
   </tr>
 </table>
@@ -250,7 +183,7 @@
 
 ### 📜 Kadim Büyücü Yasaları (Mage's Creed)
 
-<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%" style="background-color: #0D1117; border-left: 4px solid #38BDF8; border-radius: 4px;">
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td>
       ✦ <b>Kural I:</b> <i>"Tek satır temiz ve okunabilir kod, yüz satır karmaşık büyüden daha tesirlidir."</i><br/>
@@ -277,7 +210,7 @@
 <br/><br/>
 
 <!-- Sayfa Sonu Lonca Mührü -->
-<table border="0" cellpadding="8" cellspacing="0" style="background-color: #0D1117; border: 2px dashed #F59E0B; border-radius: 12px;">
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
     <td align="center">
       <font size="5">📜</font><br/>
@@ -289,7 +222,7 @@
 
 <br/>
 
-<!-- Yumuşak Degrade Alt Çizgi -->
+<!-- Yumuşak Tonlu Degrade Dalga -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28,35&height=65&section=footer" width="100%" />
 
 </div>
