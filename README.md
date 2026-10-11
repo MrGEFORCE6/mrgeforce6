@@ -80,7 +80,7 @@
 <table align="center" border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/Roxy%20Migurdia%20_%20Mushoku%20Tensei_%20Jobless%20Reincarnation_.jpg" width="135" height="135" alt="Roxy Migurdia" /><br/>
+      <img src="https://raw.githubusercontent.com/MrGEFORCE6/mrgeforce6/main/roxy.jpg" width="135" height="135" alt="Roxy Migurdia" /><br/>
       <b>Roxy Migurdia</b><br/>
       <sub><i>Water King Tier Mage • Danışman</i></sub>
     </td>
